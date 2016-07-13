@@ -14,6 +14,8 @@ board.on("ready", function() {
     }
   });
 
+  digits.brightness(180);
+
   setInterval(function() {
     digits.print(time());
   }, 1000);

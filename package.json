@@ -1,0 +1,25 @@
+{
+  "name": "j5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "led-digital-clock-arduino.js",
+  "dependencies": {
+    "johnny-five": "^0.9.59",
+    "moment": "^2.14.1",
+    "raspi-io": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiuo/j5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiuo/j5/issues"
+  },
+  "homepage": "https://github.com/claudiuo/j5#readme"
+}
