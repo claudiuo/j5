@@ -4,6 +4,7 @@
   "description": "",
   "main": "led-digital-clock-arduino.js",
   "dependencies": {
+    "imp-io": "^0.2.1",
     "johnny-five": "^0.9.59",
     "moment": "^2.14.1",
     "raspi-io": "^6.1.0"
