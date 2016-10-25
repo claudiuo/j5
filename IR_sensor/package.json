@@ -1,0 +1,24 @@
+{
+  "name": "ir_sensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiuo/j5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/claudiuo/j5/issues"
+  },
+  "homepage": "https://github.com/claudiuo/j5#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.3",
+    "raspi-io": "^6.1.0"
+  }
+}
